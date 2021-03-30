@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616588200 source:c:\users\bolga\onedrive\asztali gép\aah5x1_openclose\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/file.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<string.h>
+
